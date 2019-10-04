@@ -1,0 +1,18 @@
+*.pyc
+*~
+__pycache__
+myvenv
+db.sqlite3
+
+.DS_Store
+
+# For the secret_settings.py file
+secret_settings.py
+
+# virtual environments
+*env/
+
+# IDE and editor ignores
+.idea/
+*~
+*.swp
